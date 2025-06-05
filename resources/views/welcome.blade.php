@@ -19,5 +19,6 @@
     <body class="bg-[#FDFDFC] dark:bg-[#0a0a0a] text-[#1b1b18] dark:text-white flex p-6 lg:p-8 items-center lg:justify-center min-h-screen flex-col">
 
         <p class="text-2xl">HELLO OTA</p>
+        <p class="text-2xl">This is a change</p>
     </body>
 </html>
