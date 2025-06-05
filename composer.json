@@ -14,12 +14,12 @@
         "laravel/tinker": "^2.10.1",
         "livewire/flux": "^2.1.1",
         "livewire/volt": "^1.7.0",
-        "nativephp/mobile": "^1.0"
+        "nativephp/mobile": "*"
     },
     "repositories": {
         "nativephp": {
-            "type": "composer",
-            "url": "https://nativephp.composer.sh"
+            "type": "path",
+            "url": "../mobile"
         }
     },
     "require-dev": {
@@ -83,6 +83,6 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
