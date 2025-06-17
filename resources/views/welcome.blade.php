@@ -22,22 +22,6 @@
         <flux:profile avatar="https://unavatar.io/x/calebporzio" />
         <flux:badge color="zinc">Zinc</flux:badge>
         <flux:badge color="red">Red</flux:badge>
-        <flux:badge color="orange">Orange</flux:badge>
-        <flux:badge color="amber">Amber</flux:badge>
-        <flux:badge color="yellow">Yellow</flux:badge>
-        <flux:badge color="lime">Lime</flux:badge>
-        <flux:badge color="green">Green</flux:badge>
-        <flux:badge color="emerald">Emerald</flux:badge>
-        <flux:badge color="teal">Teal</flux:badge>
-        <flux:badge color="cyan">Cyan</flux:badge>
-        <flux:badge color="sky">Sky</flux:badge>
-        <flux:badge color="blue">Blue</flux:badge>
-        <flux:badge color="indigo">Indigo</flux:badge>
-        <flux:badge color="violet">Violet</flux:badge>
-        <flux:badge color="purple">Purple</flux:badge>
-        <flux:badge color="fuchsia">Fuchsia</flux:badge>
-        <flux:badge color="pink">Pink</flux:badge>
-        <flux:badge color="rose">Rose</flux:badge>
     @fluxScripts
     </body>
 </html>
