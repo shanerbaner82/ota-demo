@@ -15,6 +15,7 @@
         <link href="https://fonts.bunny.net/css?family=instrument-sans:400,500,600" rel="stylesheet" />
 
        @vite('resources/css/app.css')
+        @fluxAppearance
     </head>
     <body class="bg-[#FDFDFC] dark:bg-[#0a0a0a] text-[#1b1b18] dark:text-white flex p-6 lg:p-8 items-center lg:justify-center min-h-screen flex-col">
         <p class="text-2xl">Hello Dude!</p>
@@ -49,5 +50,6 @@
                 <flux:button variant="subtle" size="sm" class="justify-start -m-2 px-2!">Reset to default</flux:button>
             </flux:popover>
         </flux:dropdown>
+    @fluxScripts
     </body>
 </html>

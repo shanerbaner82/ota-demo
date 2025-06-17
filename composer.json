@@ -23,8 +23,8 @@
             "url": "https://composer.fluxui.dev"
         },
         "nativephp": {
-            "type": "composer",
-            "url": "https://nativephp.composer.sh"
+            "type": "path",
+            "url": "../mobile"
         }
     },
     "require-dev": {
