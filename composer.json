@@ -23,7 +23,7 @@
             "url": "https://composer.fluxui.dev"
         },
         "nativephp": {
-            "type": "path",
+            "type": "composer",
             "url": "https://nativephp.composer.sh"
         }
     },
