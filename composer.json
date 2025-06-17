@@ -13,10 +13,15 @@
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1",
         "livewire/flux": "^2.2",
+        "livewire/flux-pro": "^2.2",
         "livewire/volt": "^1.7.0",
         "nativephp/mobile": "^1.0"
     },
     "repositories": {
+        "flux-pro": {
+            "type": "composer",
+            "url": "https://composer.fluxui.dev"
+        },
         "nativephp": {
             "type": "composer",
             "url": "https://nativephp.composer.sh"
