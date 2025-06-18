@@ -2379,12 +2379,12 @@
         },
         {
             "name": "nativephp/mobile",
-            "version": "1.0.10",
+            "version": "1.0.11",
             "dist": {
                 "type": "zip",
-                "url": "https://nativephp.composer.sh/download/9f2fa807-a9c7-4a28-91a1-ccb67967132c/nativephp-1.0.10.zip",
-                "reference": "e7029e45bc6387c1438b3f946c5b7b1cbc626f3f",
-                "shasum": "8bf0945516428b0f7b891bcda32e7497ac474d25"
+                "url": "https://nativephp.composer.sh/download/9f2faece-015a-4787-ad08-fa3572baba0f/nativephp-1.0.11.zip",
+                "reference": "827feb360554e203d18f6392ae2275c918355232",
+                "shasum": "8bc9334a92e6a218c1eae2740c91a69c416d4ac0"
             },
             "require": {
                 "illuminate/contracts": "^10.0|^11.0|^12.0",
@@ -2473,7 +2473,7 @@
                 "laravel",
                 "nativephp"
             ],
-            "time": "2025-06-18T18:11:53+00:00"
+            "time": "2025-06-18T18:30:51+00:00"
         },
         {
             "name": "nesbot/carbon",
