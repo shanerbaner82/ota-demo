@@ -2379,12 +2379,12 @@
         },
         {
             "name": "nativephp/mobile",
-            "version": "1.0.12",
+            "version": "1.0.13",
             "dist": {
                 "type": "zip",
-                "url": "https://nativephp.composer.sh/download/9f2fd5bb-2201-48fc-b5c6-350757c35717/nativephp-1.0.12.zip",
-                "reference": "5ae184a0ba6beefa993492ce901342c31a3e8344",
-                "shasum": "1b63ccfa391466295b8b4b9efe40140865a655dd"
+                "url": "https://nativephp.composer.sh/download/9f33fa9c-ff8d-4a77-a651-2d5ce74af864/nativephp-1.0.13.zip",
+                "reference": "4111eb28772630bbe46632742e7a50caca307f35",
+                "shasum": "90d24038acf8f0459321e8f0c85e8b61c79d006d"
             },
             "require": {
                 "illuminate/contracts": "^10.0|^11.0|^12.0",
@@ -2393,6 +2393,7 @@
                 "spatie/laravel-package-tools": "^1.14.0"
             },
             "require-dev": {
+                "guzzlehttp/guzzle": "^7.9",
                 "laravel/pint": "^1.0",
                 "nunomaduro/collision": "^7.9",
                 "nunomaduro/larastan": "^2.0.1",
@@ -2420,7 +2421,7 @@
             },
             "autoload-dev": {
                 "psr-4": {
-                    "Native\\Mobile\\Tests\\": "tests/"
+                    "Tests\\": "tests/"
                 }
             },
             "scripts": {
@@ -2473,7 +2474,7 @@
                 "laravel",
                 "nativephp"
             ],
-            "time": "2025-06-18T20:19:42+00:00"
+            "time": "2025-06-20T21:46:09+00:00"
         },
         {
             "name": "nesbot/carbon",
