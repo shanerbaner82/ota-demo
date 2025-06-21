@@ -21,6 +21,7 @@
         <p class="text-2xl">Hello Dude!</p>
         <flux:profile avatar="https://unavatar.io/x/calebporzio" />
         <flux:badge color="zinc">Zinc</flux:badge>
+        <flux:badge color="red">Red</flux:badge>
     @fluxScripts
     </body>
 </html>
