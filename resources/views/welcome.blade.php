@@ -22,6 +22,10 @@
         <flux:profile avatar="https://unavatar.io/x/calebporzio" />
         <flux:badge color="zinc">Zinc</flux:badge>
         <flux:badge color="red">Red</flux:badge>
+        <flux:badge color="red">Red</flux:badge>
+        <flux:badge color="red">Red</flux:badge>
+        <flux:badge color="red">Red</flux:badge>
+        <flux:badge color="red">Red</flux:badge>
     @fluxScripts
     </body>
 </html>
